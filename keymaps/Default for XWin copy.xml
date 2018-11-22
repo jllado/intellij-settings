@@ -1,0 +1,12 @@
+<keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="ConsoleView.ClearAll">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="EditorDeleteToLineEnd">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
+  </action>
+  <action id="SonarLint.AnalyzeChangedFiles">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
+  <action id="SonarLint.AnalyzeFiles" />
+</keymap>
