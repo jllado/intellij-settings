@@ -5,6 +5,16 @@
   <action id="EditorDeleteToLineEnd">
     <keyboard-shortcut first-keystroke="shift ctrl y" />
   </action>
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
+  <action id="NewElement" />
+  <action id="NewElementInMenuGroup">
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
   <action id="SonarLint.AnalyzeChangedFiles">
     <keyboard-shortcut first-keystroke="shift ctrl s" />
   </action>
