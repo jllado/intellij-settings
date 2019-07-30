@@ -13,10 +13,10 @@
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
-    <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.kt</mask>
     <mask>*.java</mask>
     <mask>*.xhtml</mask>
+    <mask>*.css</mask>
   </component>
 </application>
