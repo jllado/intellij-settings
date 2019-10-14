@@ -5,7 +5,6 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,7 +15,7 @@
     <mask>*.css</mask>
     <mask>*.kt</mask>
     <mask>*.java</mask>
-    <mask>*.xhtml</mask>
     <mask>*.scss</mask>
+    <mask>*.xhtml</mask>
   </component>
 </application>
