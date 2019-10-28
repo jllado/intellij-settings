@@ -16,7 +16,7 @@
     <mask>*.kt</mask>
     <mask>*.java</mask>
     <mask>*.scss</mask>
-    <mask>*.xhtml</mask>
     <mask>*.groovy</mask>
+    <mask>*.xhtml</mask>
   </component>
 </application>
