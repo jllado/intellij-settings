@@ -6,6 +6,7 @@
       <mapping pattern="Dockerfile-build" type="PLAIN_TEXT" />
       <mapping pattern=".youtube_client_secret.json.real.bkp" type="PLAIN_TEXT" />
       <mapping pattern=".attach_pid27248" type="PLAIN_TEXT" />
+      <mapping pattern=".youtube_client_secret.json.bkp" type="PLAIN_TEXT" />
       <mapping pattern="videosFile" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-test" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
