@@ -9,6 +9,7 @@
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
