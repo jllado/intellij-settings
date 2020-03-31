@@ -16,9 +16,9 @@
     <mask>*.groovy</mask>
     <mask>*.html</mask>
     <mask>*.java</mask>
-    <mask>*.gradle</mask>
     <mask>*.kt</mask>
     <mask>*.sql</mask>
     <mask>*.xhtml</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
