@@ -17,8 +17,8 @@
     <mask>*.html</mask>
     <mask>*.kt</mask>
     <mask>*.sql</mask>
+    <mask>*.java</mask>
     <mask>*.xhtml</mask>
     <mask>*.gradle</mask>
-    <mask>*.java</mask>
   </component>
 </application>
