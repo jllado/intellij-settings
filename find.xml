@@ -14,8 +14,9 @@
     <mask>*.css</mask>
     <mask>*.scss</mask>
     <mask>*.groovy</mask>
-    <mask>*.kt</mask>
     <mask>*.html</mask>
+    <mask>*.kt</mask>
+    <mask>*.sql</mask>
     <mask>*.java</mask>
     <mask>*.xhtml</mask>
     <mask>*.gradle</mask>
