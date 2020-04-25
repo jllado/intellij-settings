@@ -3,7 +3,9 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="skipResultsWithOneUsage" value="true" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
@@ -18,7 +20,7 @@
     <mask>*.kt</mask>
     <mask>*.sql</mask>
     <mask>*.java</mask>
-    <mask>*.xhtml</mask>
     <mask>*.gradle</mask>
+    <mask>*.xhtml</mask>
   </component>
 </application>
