@@ -7,6 +7,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -16,11 +17,11 @@
     <mask>*.scss</mask>
     <mask>*.groovy</mask>
     <mask>*.sql</mask>
-    <mask>*.java</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.kt</mask>
     <mask>*.xhtml</mask>
     <mask>*.gradle</mask>
+    <mask>*.java</mask>
   </component>
 </application>
