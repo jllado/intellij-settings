@@ -8,6 +8,7 @@
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
+    <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.scss</mask>
@@ -15,11 +16,9 @@
     <mask>*.css</mask>
     <mask>*.gradle</mask>
     <mask>*.kt</mask>
-    <mask>*.sql</mask>
-    <mask>*.js</mask>
     <mask>*.html</mask>
+    <mask>*.sql</mask>
     <mask>*.java</mask>
-    <mask>pom.xml</mask>
     <mask>*.xhtml</mask>
   </component>
 </application>
