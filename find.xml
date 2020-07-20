@@ -13,11 +13,11 @@
     <mask>*.mxml</mask>
     <mask>*.scss</mask>
     <mask>*.groovy</mask>
-    <mask>*.sql</mask>
     <mask>*.css</mask>
-    <mask>*.kt</mask>
     <mask>*.gradle</mask>
+    <mask>*.kt</mask>
     <mask>*.html</mask>
+    <mask>*.sql</mask>
     <mask>*.java</mask>
     <mask>*.xhtml</mask>
   </component>
