@@ -2,8 +2,14 @@
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
+  <action id="EditorDecreaseFontSize">
+    <mouse-shortcut keystroke="control button142" />
+  </action>
   <action id="EditorDeleteToLineEnd">
     <keyboard-shortcut first-keystroke="shift ctrl y" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <mouse-shortcut keystroke="control button143" />
   </action>
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="ctrl n" />
