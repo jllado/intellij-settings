@@ -1,8 +1,8 @@
 <application>
   <component name="download-consent">
     <option name="consentItems">
-      <item download="DENIED" kind="jdk" url="https://index-cdn.jetbrains.com" />
-      <item download="DENIED" kind="mvn" url="https://index-cdn.jetbrains.com" />
+      <item kind="jdk" url="https://index-cdn.jetbrains.com" />
+      <item kind="mvn" url="https://index-cdn.jetbrains.com" />
     </option>
   </component>
 </application>
