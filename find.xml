@@ -5,7 +5,7 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xhtml" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -15,11 +15,11 @@
     <mask>*.scss</mask>
     <mask>*.groovy</mask>
     <mask>*.css</mask>
-    <mask>*.sql</mask>
     <mask>*.gradle</mask>
     <mask>*.kt</mask>
     <mask>*.html</mask>
     <mask>*.java</mask>
     <mask>*.xhtml</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
