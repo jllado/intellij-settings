@@ -20,7 +20,7 @@
     <mask>*.java</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
-    <mask>*.gradle</mask>
     <mask>*.xhtml</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
