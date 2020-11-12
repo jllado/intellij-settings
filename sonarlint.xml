@@ -1,15 +1,17 @@
 <application>
   <component name="SonarLintGlobalSettings">
     <option name="autoTrigger" value="false" />
+    <option name="nodejsPath" value="" />
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
-          <option name="hostUrl" value="https://sonar.travelcompositor.com" />
+          <option name="hostUrl" value="https://sonar.travelcdev.com" />
           <token>df9bdfcfdf9cdf9cdfcedf9cdfcbdf98dfcfdf99df9cdf9edfcfdf9cdf9adf99dfcbdf92df9ddf99dfcfdf9edf9ddfcedf9cdfc8df99df92dfcfdf9cdf9fdfcfdf93df92df99df93dfcbdf93df92df98</token>
           <option name="name" value="travelc" />
           <organizationKey>default-organization</organizationKey>
         </SonarQubeServer>
       </list>
     </option>
+    <rules />
   </component>
 </application>
