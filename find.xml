@@ -15,10 +15,10 @@
     <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>*.kt</mask>
-    <mask>*.gradle</mask>
     <mask>*.java</mask>
     <mask>*.sql</mask>
     <mask>*.scss</mask>
     <mask>*.xhtml</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
