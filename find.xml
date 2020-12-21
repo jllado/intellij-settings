@@ -9,7 +9,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xhtml" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -19,11 +19,11 @@
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
-    <mask>*.sql</mask>
     <mask>*.scss</mask>
     <mask>*.gradle</mask>
     <mask>*.kt</mask>
     <mask>*.java</mask>
     <mask>*.xhtml</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
