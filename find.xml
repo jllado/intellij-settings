@@ -14,11 +14,11 @@
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
-    <mask>*.sql</mask>
     <mask>*.scss</mask>
     <mask>*.gradle</mask>
     <mask>*.kt</mask>
     <mask>*.java</mask>
+    <mask>*.sql</mask>
     <mask>*.xhtml</mask>
   </component>
 </application>
