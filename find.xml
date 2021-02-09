@@ -16,10 +16,10 @@
     <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
+    <mask>*.sql</mask>
+    <mask>*.xhtml</mask>
     <mask>*.kt</mask>
     <mask>*.java</mask>
-    <mask>*.xhtml</mask>
-    <mask>*.sql</mask>
     <mask>*.gradle</mask>
   </component>
 </application>
