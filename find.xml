@@ -13,7 +13,6 @@
     <mask>*.mxml</mask>
     <mask>*.groovy</mask>
     <mask>*.css</mask>
-    <mask>*.sql</mask>
     <mask>*.js</mask>
     <mask>*.kt</mask>
     <mask>*.java</mask>
@@ -21,5 +20,6 @@
     <mask>*.html</mask>
     <mask>*.xhtml</mask>
     <mask>*.scss</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
