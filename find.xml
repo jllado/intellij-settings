@@ -6,6 +6,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.kt" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -14,12 +15,12 @@
     <mask>*.groovy</mask>
     <mask>*.css</mask>
     <mask>*.js</mask>
-    <mask>*.kt</mask>
     <mask>*.java</mask>
     <mask>*.gradle</mask>
     <mask>*.html</mask>
     <mask>*.scss</mask>
     <mask>*.sql</mask>
     <mask>*.xhtml</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
