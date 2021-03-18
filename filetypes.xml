@@ -5,8 +5,8 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="Dockerfile-test" type="PLAIN_TEXT" />
-      <mapping pattern=".attach_pid27248" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-build" type="PLAIN_TEXT" />
+      <mapping pattern=".attach_pid27248" type="PLAIN_TEXT" />
       <mapping pattern="videosFile" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
